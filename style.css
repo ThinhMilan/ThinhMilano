@@ -1,0 +1,59 @@
+@charset "utf-8";
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,0,4,1.00) 0%,rgba(194,164,165,1.00) 87.25%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,0,4,1.00) 0%,rgba(194,164,165,1.00) 87.25%);
+    background-image: -o-linear-gradient(270deg,rgba(255,0,4,1.00) 0%,rgba(194,164,165,1.00) 87.25%);
+    background-image: linear-gradient(180deg,rgba(255,0,4,1.00) 0%,rgba(194,164,165,1.00) 87.25%);
+}
+#headingOne1 .mb-0 a {
+    color: #A00104;
+}
+.card #collapseOne1 .card-body {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #561414;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #F5D000;
+}
+#headingThree2 .mb-0 .collapsed {
+    color: #FF001A;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,209,0,1.00) 0%,rgba(210,101,101,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,209,0,1.00) 0%,rgba(210,101,101,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,209,0,1.00) 0%,rgba(210,101,101,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,209,0,1.00) 0.00%,rgba(210,101,101,1.00) 100%);
+}
+.container-fluid .container .footer {
+    width: 1111px;
+    height: 173px;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,209,0,1.00) 0%,rgba(210,101,101,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,209,0,1.00) 0%,rgba(210,101,101,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,209,0,1.00) 0%,rgba(210,101,101,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,209,0,1.00) 0.00%,rgba(210,101,101,1.00) 100%);
+}
+.container .footer #ten {
+    margin-left: 292px;
+    margin-top: -115px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: xx-large;
+
+}
+
+#accordion1 .footer #anh {
+    padding-top: 0px;
+    margin-top: -29px;
+
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #C12729;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #B40003;
+}
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #AA1416;
+}
